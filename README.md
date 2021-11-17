@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @silbiaislam
-- 👀 I’m interested in Coding
-- 🧑‍💻 I’m looking to collaborate on beginner level projects 
 - 📫 How to reach me : silbiaislam.12@gmail.com
 
 <!---
