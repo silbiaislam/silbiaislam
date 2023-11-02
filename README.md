@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm an analyst with a strong interest in coding an
 
 ## Get in Touch
 
-Feel free to reach out if you'd like to collaborate, discuss a project, or just have a friendly chat. You can find me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/silbia-islam-b58523215/), or email me at silbiaislam.12@gmail.com
+Feel free to reach out if you'd like to collaborate, discuss a project, or just have a friendly chat. You can find me on [LinkedIn](Silbia Islam(https://www.linkedin.com/in/silbia-islam-b58523215/), or email me at silbiaislam.12@gmail.com
 
 Let's connect and explore the world of data, technology, art, and environmental preservation together! 🌍🎨🤖
 
