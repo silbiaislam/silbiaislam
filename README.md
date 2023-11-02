@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm an analyst with a strong interest in coding an
 
 - 🎨 Artistic Creations: Occasionally, you might stumble upon some of my art projects, whether it's a digital illustration or a painting. Art is my creative outlet.
 
-- 🌱 Environmental Initiatives: I'll be sharing information and resources related to environmental causes I support. Let's work together to make the world a better place.
+- 🌱 Environmental Initiatives: I'll be sharing information and resources related to environmental causes I support.
 
 ## Get in Touch
 
